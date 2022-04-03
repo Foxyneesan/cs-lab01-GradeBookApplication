@@ -45,5 +45,9 @@ namespace GradeBook
         {
             Grades.Remove(grade);
         }
+
+        internal class Count<T>
+        {
+        }
     }
 }
